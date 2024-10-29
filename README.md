@@ -22,4 +22,10 @@
     - Outil de gestion de projet
     - Planning et suivi
 
+- Spécifications fonctionnelles
 
+    - Livrables
+    - Architecture logicielle
+    - Maquettes
+    - Use-case
+    - RBAC
