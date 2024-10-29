@@ -43,4 +43,12 @@
     - Composants d'accès aux données
     - Autres composants
 
+- Présentation d'éléments de sécurité de l'application
+
+    - Défense en profondeur
+    - Réduction de la surface d'attaque
+    - Politique de moindre privilège
+    - RGPD
+         
+
 
