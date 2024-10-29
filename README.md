@@ -56,5 +56,7 @@
     - Tests d'intégration
     - Tests end to end
               
+- Présentation d'un jeu d'essai
+
 
 
