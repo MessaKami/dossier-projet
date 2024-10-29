@@ -16,3 +16,10 @@
     - Objectifs
     - Exigences fonctionnelles
 
+- Gestion de projet
+
+    - Méthodologie du projet
+    - Outil de gestion de projet
+    - Planning et suivi
+
+
