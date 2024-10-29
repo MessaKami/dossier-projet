@@ -49,6 +49,12 @@
     - Réduction de la surface d'attaque
     - Politique de moindre privilège
     - RGPD
-         
+
+- Présentation du plan de tests
+
+    - Tests unitaires
+    - Tests d'intégration
+    - Tests end to end
+              
 
 
