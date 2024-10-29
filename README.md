@@ -58,5 +58,10 @@
               
 - Présentation d'un jeu d'essai
 
+- Veille
+
+    - Vulnérabilités de sécurité rencontrées
+    - Failles corrigées
+    - Sources
 
 
