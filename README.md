@@ -29,3 +29,10 @@
     - Maquettes
     - Use-case
     - RBAC
+
+- Spécifications techniques
+
+    - Merise
+    - Diagramme de classes
+    - Diagramme de séquences
+
