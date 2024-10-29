@@ -36,3 +36,11 @@
     - Diagramme de classes
     - Diagramme de séquences
 
+- Extraits de code
+
+    - Captures d'écran d'interfaces utilisateur
+    - Composants métier
+    - Composants d'accès aux données
+    - Autres composants
+
+
