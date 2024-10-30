@@ -58,10 +58,15 @@
               
 - Présentation d'un jeu d'essai
 
+- Déploiement 
+    - Documentation DevOps
+    - Procédures de deploiement 
+    - Maintenance applicative
+
 - Veille
 
     - Vulnérabilités de sécurité rencontrées
     - Failles corrigées
     - Sources
 
-
+- Annexes
