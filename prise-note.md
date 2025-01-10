@@ -60,6 +60,8 @@
   - Conformité RGPD
 
 - **Extraits de code de composants d'accès aux données** :
+  - Interface utilisateur (authentification)  
+  - Composant Métier
   - Modèles
   - Un contrôleur qui accède à une donnée
   - Une migration
@@ -69,6 +71,10 @@
   - Interdiction des accès externes
   - Gestion des privilèges (pas de SuperUser)
   - Best practices de sécurisation pour PostgreSQL
+
+- **Présentation des tests** :
+  - Tests unitaires
+  - Test end to end (E2E)
 
 - **Jeu d'essai** :
   - Démo de l'application :
