@@ -1,72 +1,73 @@
-# dossier-projet
+# Table des matières
 
-- Introduction
+1. **Introduction**
+   - Liste des compétences mises en œuvre
 
-    - Objectif du dossier
-    - Liste des compétences    
+2. **Présentation de l’entreprise et du service**
+   - Présentation de l’entreprise
+   - Présentation du service
 
-- Présentation de l'entreprise et du service
+3. **Expression des besoins du projet**
+   - Contexte et enjeux
+   - Exigences fonctionnelles
+   - Personnas
 
-    - Présentation de l'entreprise
-    - Présentation du service
+4. **Gestion de projet**
+   - Environnement humain
+   - Méthodologie du projet
+   - Outil de gestion de projet
+   - Planning et suivi
+   - Objectifs de qualité
 
-- Expression des besoins du projet
+5. **Spécifications fonctionnelles**
+   - Contraintes
+   - Livrables attendus
+   - Architecture logicielle
+   - Maquettes et enchaînement des maquettes
+   - Modélisation des données (MCD, MLD, MPD)
+   - Script SQL
+   - Use-case
+   - Diagrammes de séquence
+   - RBAC
 
-    - Contexte et enjeux
-    - Objectifs
-    - Exigences fonctionnelles
+6. **Spécifications techniques**
+   - Dictionnaire de données
+   - Choix techniques (stack API & front)
+   - Diagrammes (activité, classe)
+   - Stratégie de sécurisation
+   - Conformité RGPD
 
-- Gestion de projet
+7. **Extraits de code**
+   - Interfaces utilisateur
+   - Composants métier
+   - Composants d’accès aux données
+   - Autres composants (contrôleurs, utilitaires)
 
-    - Méthodologie du projet
-    - Outil de gestion de projet
-    - Planning et suivi
+8. **Présentation d’éléments de sécurité**
+   - Défense en profondeur
+   - Réduction de la surface d’attaque
+   - Politique de moindre privilège
+   - Sécurisation de la base de données
+   - RGPD
 
-- Spécifications fonctionnelles
+9. **Plan de tests**
+   - Tests unitaires
+   - Tests d’intégration
+   - Tests end-to-end (E2E)
 
-    - Livrables
-    - Architecture logicielle
-    - Maquettes
-    - Use-case
-    - RBAC
+10. **Jeu d’essai**
+    - Démo, données en entrée, résultats attendus et analyse des écarts
 
-- Spécifications techniques
-
-    - Merise
-    - Diagramme de classes
-    - Diagramme de séquences
-
-- Extraits de code
-
-    - Captures d'écran d'interfaces utilisateur
-    - Composants métier
-    - Composants d'accès aux données
-    - Autres composants
-
-- Présentation d'éléments de sécurité de l'application
-
-    - Défense en profondeur
-    - Réduction de la surface d'attaque
-    - Politique de moindre privilège
-    - RGPD
-
-- Présentation du plan de tests
-
-    - Tests unitaires
-    - Tests d'intégration
-    - Tests end to end
-              
-- Présentation d'un jeu d'essai
-
-- Déploiement 
+11. **Déploiement**
     - Documentation DevOps
-    - Procédures de deploiement 
+    - Procédures de déploiement
     - Maintenance applicative
 
-- Veille
-
-    - Vulnérabilités de sécurité rencontrées
+12. **Veille technologique**
+    - Vulnérabilités rencontrées
     - Failles corrigées
     - Sources
 
-- Annexes
+13. **Annexes**
+    - Maquettes
+    - Code des composants significatifs
