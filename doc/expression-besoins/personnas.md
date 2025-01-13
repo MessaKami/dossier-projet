@@ -176,3 +176,47 @@ Emma a terminé sa formation chez Simplon il y a deux ans et travaille maintenan
 - Créer des opportunités professionnelles
 - Renforcer son réseau professionnel
 - Contribuer au succès des nouveaux apprenants
+
+## Philippe Durand - Directeur de la Fabrique Simplon HDF
+
+### Profil
+- **Âge** : 52 ans
+- **Profession** : Directeur de Fabrique
+- **Localisation** : Lille
+- **Expérience** : 20 ans dans la formation professionnelle, 5 ans chez Simplon
+
+### Contexte
+Philippe dirige la fabrique Simplon des Hauts-de-France, supervisant plusieurs sites et de nombreuses promotions. Ancien directeur d'un centre de formation traditionnel, il a rejoint Simplon pour son approche innovante et inclusive. Il doit assurer la qualité des formations tout en développant les partenariats avec les entreprises locales.
+
+### Objectifs
+- Maintenir une vue d'ensemble sur toutes les activités de la fabrique
+- Assurer la qualité et la cohérence des formations
+- Développer les partenariats entreprises
+- Optimiser la gestion des ressources
+- Renforcer la réputation de Simplon dans la région
+
+### Points de friction actuels
+- Difficulté à suivre l'activité de toutes les promotions
+- Manque de données consolidées pour la prise de décision
+- Communication complexe entre les différents sites
+- Besoin d'indicateurs de performance en temps réel
+
+### Besoins spécifiques
+- Un tableau de bord global des activités
+- Des outils de reporting efficaces
+- Un système de communication centralisé
+- Des indicateurs de suivi des promotions
+- Un moyen de valoriser les succès et réussites
+
+### Frustrations
+- "Je manque de visibilité sur l'activité quotidienne des promotions"
+- "La communication entre les sites est parfois incohérente"
+- "Il est difficile d'extraire des données pertinentes pour les partenaires"
+- "Je perds du temps à consolider les informations de différentes sources"
+
+### Motivations
+- Développer l'impact de Simplon dans la région
+- Améliorer l'efficacité opérationnelle
+- Garantir l'excellence des formations
+- Renforcer les liens avec l'écosystème local
+- Favoriser l'insertion professionnelle des apprenants
