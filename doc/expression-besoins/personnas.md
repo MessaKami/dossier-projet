@@ -88,3 +88,47 @@ Lucas a récemment intégré une formation de développeur web chez Simplon apr�
 - Développer son réseau professionnel
 - Partager ses connaissances avec les autres apprenants
 - Profiter de l'expérience des anciens
+
+## Michel Lefort - Formateur Senior en Développement Web
+
+### Profil
+- **Âge** : 45 ans
+- **Profession** : Formateur Senior en Développement Web
+- **Localisation** : Amiens
+- **Expérience** : 15 ans en développement web, dont 4 ans en tant que formateur chez Simplon
+
+### Contexte
+Michel est un développeur chevronné qui a choisi de transmettre son expertise en devenant formateur. Il gère plusieurs promotions simultanément et doit jongler entre les cours en présentiel et le suivi à distance. Habitué aux outils de développement collaboratif comme GitHub, il cherche à optimiser la communication et le partage de ressources avec ses apprenants.
+
+### Objectifs
+- Assurer un suivi efficace des apprenants
+- Partager facilement les ressources pédagogiques
+- Maintenir une communication claire avec toutes les promotions
+- Encourager l'entraide entre apprenants
+- Garder une trace des échanges et des solutions apportées
+
+### Points de friction actuels
+- Difficulté à gérer les multiples canaux de communication
+- Temps perdu à répéter les mêmes informations à différentes promotions
+- Manque d'outils pour suivre la progression des apprenants
+- Besoin de modérer efficacement les discussions techniques
+
+### Besoins spécifiques
+- Un système de gestion des ressources pédagogiques centralisé
+- Des outils de modération efficaces pour les discussions techniques
+- Une vue d'ensemble des activités des différentes promotions
+- Des fonctionnalités pour organiser des sessions de mentorat
+- Un moyen de valoriser les contributions pertinentes des apprenants
+
+### Frustrations
+- "Je passe trop de temps à rechercher d'anciennes ressources partagées"
+- "Il est difficile de suivre toutes les conversations techniques en parallèle"
+- "Je dois souvent répéter les mêmes explications dans différents canaux"
+- "La gestion des droits d'accès pour les différentes promotions est complexe"
+
+### Motivations
+- Améliorer la qualité de l'enseignement
+- Optimiser le temps consacré à la gestion administrative
+- Favoriser l'autonomie des apprenants
+- Créer une base de connaissances réutilisable
+- Maintenir un niveau d'excellence technique dans les formations
