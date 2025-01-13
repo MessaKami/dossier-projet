@@ -132,3 +132,47 @@ Michel est un développeur chevronné qui a choisi de transmettre son expertise 
 - Favoriser l'autonomie des apprenants
 - Créer une base de connaissances réutilisable
 - Maintenir un niveau d'excellence technique dans les formations
+
+## Emma Rousseau - Alumni et Développeuse Full Stack
+
+### Profil
+- **Âge** : 28 ans
+- **Profession** : Développeuse Full Stack
+- **Localisation** : Lille
+- **Expérience** : 2 ans en tant que développeuse après sa formation chez Simplon
+
+### Contexte
+Emma a terminé sa formation chez Simplon il y a deux ans et travaille maintenant comme développeuse Full Stack dans une startup lilloise. Elle souhaite rester active dans la communauté Simplon pour partager son expérience et aider les nouveaux apprenants. Elle se souvient des défis qu'elle a dû relever pendant sa formation et veut faciliter le parcours des autres.
+
+### Objectifs
+- Partager son expérience avec les nouveaux apprenants
+- Maintenir des liens avec la communauté Simplon
+- Participer au mentorat des apprenants actuels
+- Repérer des talents potentiels pour son entreprise
+- Contribuer à l'amélioration continue des formations
+
+### Points de friction actuels
+- Difficulté à trouver du temps pour le mentorat entre ses obligations professionnelles
+- Manque de structure pour organiser les sessions de mentorat
+- Pas de visibilité claire sur les besoins des apprenants actuels
+- Communication dispersée avec les différentes promotions
+
+### Besoins spécifiques
+- Un système flexible pour organiser des sessions de mentorat
+- Des canaux dédiés pour partager des offres d'emploi et des conseils
+- Une façon simple d'identifier les apprenants ayant besoin d'aide
+- Des outils pour partager efficacement son expérience professionnelle
+- Un moyen de valoriser son engagement dans la communauté
+
+### Frustrations
+- "Il est difficile de coordonner les sessions de mentorat avec mon emploi du temps"
+- "Je ne sais pas toujours quels apprenants ont besoin d'aide"
+- "Les échanges sont parfois trop informels et manquent de suivi"
+- "Je voudrais pouvoir partager plus facilement mon expérience du monde professionnel"
+
+### Motivations
+- Rendre à la communauté ce qu'elle a reçu
+- Développer ses compétences en mentorat
+- Créer des opportunités professionnelles
+- Renforcer son réseau professionnel
+- Contribuer au succès des nouveaux apprenants
